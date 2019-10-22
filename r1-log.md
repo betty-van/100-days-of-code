@@ -12,6 +12,7 @@ Day 1: 10-21-19
   -Defang an IP address
   -Reverse a string
   -area of a square that has arc of length A
+  -fibonacci recursively
 -Learned the following in JS course:
   -object.create
   -constructors
