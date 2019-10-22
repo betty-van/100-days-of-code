@@ -22,4 +22,7 @@ Day 1: 10-21-19
 Day 2: 10-22-19
 -Enrolled in CS50 Intro to CS 2019 course
 -Started logging on 100 days of code
+-Completed Leture 0
+-Started Lecture 1
+-HackerRank recursion for factorial (can do this in like a minute now)
 
