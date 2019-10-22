@@ -8,9 +8,10 @@ Goal: Get a software engineering or web developer job within one year with the s
 
 Day 1: 10-21-19
 -Developed a plan for the next few months
--Completed several LeetCode problems 
+-Completed several LeetCode and CodeWars problems 
   -Defang an IP address
   -Reverse a string
+  -area of a square that has arc of length A
 -Learned the following in JS course:
   -object.create
   -constructors
