@@ -1,10 +1,23 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Betty]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [10-21-2019].
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Goal: Get a software engineering or web developer job within one year with the same or better salary than I am making right now.
 
-### R1D2
+Day 1: 10-21-19
+-Developed a plan for the next few months
+-Completed several LeetCode problems 
+  -Defang an IP address
+  -Reverse a string
+-Learned the following in JS course:
+  -object.create
+  -constructors
+  -first class functions
+-Random knowledge gained: maps
+
+Day 2: 10-22-19
+-Enrolled in CS50 Intro to CS 2019 course
+-Started logging on 100 days of code
+
