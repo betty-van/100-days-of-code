@@ -6,7 +6,6 @@ The log of my #100DaysOfCode challenge. Started on [10-21-2019].
 
 Goal: Get a software engineering or web developer job within one year (summer 2020) with the same or better salary than I am making right now.
 
-
 Day 1: 10-21-19  
 -Developed a plan for the next few months  
 -Completed several LeetCode and CodeWars problems   
@@ -19,9 +18,7 @@ Day 1: 10-21-19
   -constructors  
   -first class functions  
 -Random knowledge gained: maps  
-  
-  
- 
+
 Day 2: 10-22-19  
 -Enrolled in CS50 Intro to CS 2019 course  
 -Started logging on 100 days of code  
@@ -32,6 +29,14 @@ Day 2: 10-22-19
 -Finished Lecture 1  
 -Started problem set 1  
 
-Day 3: 10-23-19  
+Day 3: 10-24-19
   -
+  
+Day 4: 10-24-19
+
+Day 5: 10-25-19
+
+Day 6: 10-26-19
+
+Day 7: 10-27-19
 
