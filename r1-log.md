@@ -25,5 +25,5 @@ Day 2: 10-22-19
 -Completed Leture 0  
 -Started Lecture 1  
 -HackerRank recursion for factorial (can do this in like a minute now)  
--LeetCode - balanced strings  
+-LeetCode: balanced strings  
 
