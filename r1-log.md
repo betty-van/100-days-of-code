@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [10-21-2019].
 
 ## Log
 
-Goal: Get a software engineering or web developer job within one year with the same or better salary than I am making right now.
+Goal: Get a software engineering or web developer job within one year (summer 2020) with the same or better salary than I am making right now.
 
 Day 1: 10-21-19  
 -Developed a plan for the next few months  
@@ -26,4 +26,9 @@ Day 2: 10-22-19
 -Started Lecture 1  
 -HackerRank recursion for factorial (can do this in like a minute now)  
 -LeetCode: balanced strings  
+-Finished Lecture 1  
+-Started problem set 1  
+
+Day 3: 10-23-19  
+  -
 
