@@ -19,6 +19,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   -first class functions  
 -Random knowledge gained: maps  
 
+
 ## Day 2: 10-22-19  
 -Enrolled in CS50 Intro to CS 2019 course  
 -Started logging on 100 days of code  
@@ -29,8 +30,9 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 -Finished Lecture 1  
 -Started problem set 1  
 -Completed Mario/less and wrote most of Cash
+-focusing on CS50 until complete, then back to JS
 
-## Day 3: 10-24-19
+## Day 3: 10-23-19
   -finished Cash and submitted  
   -Started watching Lecture 2 
   -completed a HackerRank problem for converting decimal -> binary and printing the highest number of consecutive ones, took 1.5 hours to learn parseInt(input, 2) and Math.max(...input) and debugging
@@ -41,7 +43,11 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - completed debugging Readability and ensuring correctness
   - completed Caesar in approximately 3 hours with debugging and checking correctness
   - finished Problem Set 2
-  - started Lecture 3
+  - started Lecture 3 & finished Lecture 3
+  - started Pset 3
+  - completed Plurality in Pset3 (super hard, took a long time to figure out)
+  - started Runoff 
+  - understanding different sorting algorithms
 
 ## Day 5: 10-25-19
 
