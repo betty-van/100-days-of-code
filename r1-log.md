@@ -39,6 +39,9 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   
 ## Day 4: 10-24-19
   - completed debugging Readability and ensuring correctness
+  - completed Caesar in approximately 3 hours with debugging and checking correctness
+  - finished Problem Set 2
+  - started Lecture 3
 
 ## Day 5: 10-25-19
 
