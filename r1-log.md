@@ -33,6 +33,9 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 ## Day 3: 10-24-19
   -finished Cash and submitted  
   -Started watching Lecture 2 
+  -completed a HackerRank problem for converting decimal -> binary and printing the highest number of consecutive ones, took 1.5 hours to learn parseInt(input, 2) and Math.max(...input) and debugging
+  -finished watching Lecture 2
+  -started Readability in problem set 2
   
 ## Day 4: 10-24-19
 
