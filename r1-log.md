@@ -38,6 +38,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   -started Readability in problem set 2
   
 ## Day 4: 10-24-19
+  - completed debugging Readability and ensuring correctness
 
 ## Day 5: 10-25-19
 
