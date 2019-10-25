@@ -51,6 +51,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - completed Project Euler 1: multiples of 3 or 5 under 1000 using simple iterative math and summations for faster
 
 ## Day 5: 10-25-19
+  - Learned about trees
+  - Working on Runoff
 
 ## Day 6: 10-26-19
 
