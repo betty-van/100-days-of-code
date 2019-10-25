@@ -53,6 +53,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 ## Day 5: 10-25-19
   - Learned about trees
   - Working on Runoff
+  - Completed all of Runoff except problems with tabulate function on 2nd iteration after first elimination roundm asking for assistance
 
 ## Day 6: 10-26-19
 
