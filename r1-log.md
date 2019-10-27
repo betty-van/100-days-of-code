@@ -64,4 +64,10 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - LeetCode weekly contest tonight at 7: 30pm, tried two problems, no success
 
 ## Day 7: 10-27-19
+  - Finished Filter with some rounding errors, but does what it's supposed to do
+  - Starting  Recover
+  - Watching Lecture 5 - data structures
 
+## Day 8 10-28-19
+
+## Day 9 10-29-19
