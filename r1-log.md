@@ -59,6 +59,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 ## Day 6: 10-26-19
   - Finished Runoff and submitted
   - Starting Pset 4
+  - Finished up to blur of Filter, understanding pointers and malloc took all day on and off
   - LeetCode weekly contest tonight at 7: 30pm
 
 ## Day 7: 10-27-19
