@@ -61,7 +61,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Starting Pset 4
   - Finished up to reflect of Filter, understanding pointers and malloc took all day on and off
   - Pseudocode for Filter blur written down with visuals
-  - LeetCode weekly contest tonight at 7: 30pm
+  - LeetCode weekly contest tonight at 7: 30pm, tried two problems, no success
 
 ## Day 7: 10-27-19
 
