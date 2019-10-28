@@ -66,7 +66,9 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 ## Day 7: 10-27-19
   - Finished Filter with some rounding errors, but does what it's supposed to do
   - Starting  Recover
-  - Watching Lecture 5 - data structures
+  - Finished watching Lecture 5 - data structures
+  - Started creating my portfolio website (not much yet)
+  - Working on a JS to-do list
 
 ## Day 8 10-28-19
 
