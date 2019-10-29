@@ -71,5 +71,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Working on a JS to-do list
 
 ## Day 8 10-28-19
+  - Finished Recover, a LOT of debugging and thinking about points and memory allocation
+  - Came up with theme for my portfolio website
+  - Continuing to make JS to-do list
 
 ## Day 9 10-29-19
