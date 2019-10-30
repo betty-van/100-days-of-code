@@ -77,6 +77,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 
 ## Day 9 10-29-19
   - All day to do Speller (Pset 5)
+  - Watching Lecture 6 on Python
  
 ## Day 10 10-30-19
 
