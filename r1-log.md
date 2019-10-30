@@ -76,3 +76,10 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Continuing to make JS to-do list
 
 ## Day 9 10-29-19
+  - All day to do Speller (Pset 5)
+ 
+## Day 10 10-30-19
+
+## Day 11: 10-31-19
+
+## Day 12: 11-1-19
