@@ -90,7 +90,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 
 ## Day 12: 11-1-19
   - Lecture 7 of CS50 SQL
-  - one LeetCode problem
+  - Preparing for Leetcode: learning Dynamic Array & Linked Lists in Python + methods, installed Python on PC and added Python extensions to VSC
 
 ## Day 13: 11-2-19
 
