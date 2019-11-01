@@ -71,21 +71,41 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Working on a JS to-do list
 
 ## Day 8 10-28-19
-  - Finished Recover, a LOT of debugging and thinking about points and memory allocation
+  - Finished Recover, a LOT of debugging and thinking about pointerss and memory allocation
   - Came up with theme for my portfolio website
   - Continuing to make JS to-do list
 
 ## Day 9 10-29-19
-  - All day to do Speller (Pset 5)
+  - All day to do Speller (Pset 5) - hash table and hash functions
   - Watching Lecture 6 on Python
  
 ## Day 10 10-30-19
   - Finished Lecture 6
-  - Finished Pset6 up to DNA
+  - Finished Pset6 up to DNA, repeating problems in C in Python
 
 ## Day 11: 10-31-19
-  - Working on DNA of Pset6
+  - Working on DNA of Pset6 in Python
   - Listening to David Malan's podcast episode on freeCodeCamp podcast
   - Finished DNA of Pset6 right before bed
 
 ## Day 12: 11-1-19
+  - Lecture 7 of CS50 SQL
+  - one LeetCode problem
+
+## Day 13: 11-2-19
+
+## Day 14: 11-3-19
+
+## Day 15: 11-4-19
+
+## Day 16: 11-5-19
+
+## Day 17: 11-6-19
+
+## Day 18: 11-7-19
+
+## Day 19: 11-8-19
+
+## Day 20: 11-9- 19
+
+## Day 21: 11-10-19
