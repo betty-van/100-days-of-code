@@ -80,7 +80,11 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Watching Lecture 6 on Python
  
 ## Day 10 10-30-19
+  - Finished Lecture 6
+  - Finished Pset6 up to DNA
 
 ## Day 11: 10-31-19
+  - Working on DNA of Pset6
+  - Listening to David Malan's podcast episode on freeCodeCamp podcast
 
 ## Day 12: 11-1-19
