@@ -95,6 +95,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 ## Day 13: 11-2-19
   - 12 hour Hackathon
   - Built portfolio website with burger menu and responsivity
+  - Uploaded onto Github pages and added all projects
 
 ## Day 14: 11-3-19
 
