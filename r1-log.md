@@ -93,6 +93,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Preparing for Leetcode: learning Dynamic Array in Python + methods, installed Python on PC and added Python extensions to VSC
 
 ## Day 13: 11-2-19
+  - 12 hour Hackathon
+  - Built portfolio website with burger menu and responsivity
 
 ## Day 14: 11-3-19
 
