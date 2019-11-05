@@ -98,8 +98,13 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Uploaded onto Github pages and added all projects
 
 ## Day 14: 11-3-19
+  - Finished Movies in Pset7
 
 ## Day 15: 11-4-19
+  - Finished Houses in Pset7
+  - Learning Flexbox with What The Flexbox? by Wes Bos
+  - Completed Flexbox Froggy
+  - Fine-tuned the plan for the next few months 
 
 ## Day 16: 11-5-19
 
