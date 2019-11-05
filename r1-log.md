@@ -99,12 +99,15 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 
 ## Day 14: 11-3-19
   - Finished Movies in Pset7
+  - Installed VS Code, Python, git on Macbook Air (had to update the OS)
 
 ## Day 15: 11-4-19
   - Finished Houses in Pset7
   - Learning Flexbox with What The Flexbox? by Wes Bos
   - Completed Flexbox Froggy
   - Fine-tuned the plan for the next few months 
+  - Read first 3 chapters of Eloquent JS
+  - Completed exercises from chapter 2: Tower, FizzBuzz, Chessboard
 
 ## Day 16: 11-5-19
 
