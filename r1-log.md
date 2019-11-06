@@ -117,6 +117,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 ## Day 17: 11-6-19
   - Started CS50 Web Programming with Python and Javascript
   - Lecture 0 Git
+  - Read Eloquent JS Chapter 4
+  - Completed sum of a range exercise in chapter 4
 
 ## Day 18: 11-7-19
 
