@@ -110,6 +110,9 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Completed exercises from chapter 2: Tower, FizzBuzz, Chessboard
 
 ## Day 16: 11-5-19
+  - Finished Grid Garden 
+  - Followed Shay Howe HTML CSS for a few chapters
+  - Completed chapter 3 exercises of Eloquent Javascript 
 
 ## Day 17: 11-6-19
 
