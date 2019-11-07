@@ -120,6 +120,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Read Eloquent JS Chapter 4
   - Completed sum of a range exercise in chapter 4
   - Completed reverseArray and reverseArrayInPlan exercises in chapter 4
+  - Started Project 0, finished home page
 
 ## Day 18: 11-7-19
 
