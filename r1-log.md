@@ -123,9 +123,31 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Started Project 0, finished home page
 
 ## Day 18: 11-7-19
+  - Lecture 1 HTML CSS 
+  - Completed A List in Eloquent JS Chapter 4
+  - Multiple implementations and reading on linked lists in JS (woo! data structures!)
+  - About page in Project 0 
 
 ## Day 19: 11-8-19
 
 ## Day 20: 11-9- 19
 
 ## Day 21: 11-10-19
+
+## Day 22: 11-11-19
+
+## Day 23: 11-12-19
+
+## Day 24: 11-13-19
+
+## Day 25: 11-14-19
+
+## Day 26: 11-15-19
+
+## Day 27: 11-16-19
+
+## Day 28: 11-17-19
+
+## Day 29: 11-18-19
+
+## Day 30: 11-19-19
