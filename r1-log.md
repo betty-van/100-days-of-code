@@ -21,7 +21,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 
 
 ## Day 2: 10-22-19  
--Enrolled in CS50 Intro to CS 2019 course  
+-Enrolled in CS50 Intro to CS Fall 2019 course  
 -Started logging on 100 days of code  
 -Completed Leture 0  
 -Started Lecture 1  
@@ -93,7 +93,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Preparing for Leetcode: learning Dynamic Array in Python + methods, installed Python on PC and added Python extensions to VSC
 
 ## Day 13: 11-2-19
-  - 12 hour Hackathon
+  - 12 hour Hackathon, building portfolio website hosted at github pages
   - Built portfolio website with burger menu and responsivity
   - Uploaded onto Github pages and added all projects
 
@@ -119,6 +119,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Lecture 0 Git
   - Read Eloquent JS Chapter 4
   - Completed sum of a range exercise in chapter 4
+  - Completed reverseArray and reverseArrayInPlan exercises in chapter 4
 
 ## Day 18: 11-7-19
 
