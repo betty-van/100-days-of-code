@@ -131,6 +131,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 ## Day 19: 11-8-19
   - Finished Lecture 1 HTML CSS
   - Finished reading Eloquent JS Chapter 5
+  - Installed SASS and learned how to implement it from the command line
 
 ## Day 20: 11-9- 19
 
