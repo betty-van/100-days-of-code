@@ -124,7 +124,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 
 ## Day 18: 11-7-19
   - Lecture 1 HTML CSS 
-  - Completed A List in Eloquent JS Chapter 4
+  - Worked through exercises in chapter 4
+  - Made a class and methods for Linked List
 
 ## Day 19: 11-8-19
 
