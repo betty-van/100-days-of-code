@@ -129,6 +129,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Continued working on Project 0, added a Boostrap button, finished About page with a contact form
 
 ## Day 19: 11-8-19
+  - Finished Lecture 1 HTML CSS
+  - Finished reading Eloquent JS Chapter 5
 
 ## Day 20: 11-9- 19
 
