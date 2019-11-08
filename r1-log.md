@@ -123,9 +123,10 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Started Project 0, finished home page
 
 ## Day 18: 11-7-19
-  - Lecture 1 HTML CSS 
+  - Finished half of Lecture 1 HTML CSS 
   - Worked through exercises in chapter 4
   - Made a class and methods for Linked List
+  - Continued working on Project 0, added a Boostrap button, finished About page with a contact form
 
 ## Day 19: 11-8-19
 
