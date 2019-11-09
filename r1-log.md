@@ -135,6 +135,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Implementation of linked list, hash table, BST, and stack & queue in node.js
 
 ## Day 20: 11-9- 19
+  - Completed freeCodeCamp Product Landing Page for Responsive Web Design certification
+  - Updated portfolio website to include that project and fix skill list and change about me section
 
 ## Day 21: 11-10-19
 
