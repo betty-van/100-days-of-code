@@ -138,7 +138,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Completed freeCodeCamp Product Landing Page for Responsive Web Design certification
   - Updated portfolio website to include that project and fix skill list and change about me section
   - Completed freeCodeCamp Technical Documentation website
-  - Finished getting started page for Project0 - one more page to go
+  - Finished Project 0 - uploaded on Github and added to Portfolio page
 
 ## Day 21: 11-10-19
 
