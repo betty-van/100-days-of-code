@@ -141,6 +141,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Finished Project 0 - uploaded on Github and added to Portfolio page
 
 ## Day 21: 11-10-19
+  - Finished Portfolio website
+  - Earned Responsive Web Design certification !!!!
 
 ## Day 22: 11-11-19
 
