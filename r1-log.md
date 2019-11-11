@@ -147,6 +147,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - CS50 Web Lecture 2 Flask
   - Worked on UglyTodoList with JS (Watch and Code)
   - Started reading YDKJS Up & Going on cell phone
+  - Worked through all freeCodeCamp responsive web design lessons/challenges
 
 ## Day 22: 11-11-19
 
