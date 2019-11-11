@@ -142,9 +142,11 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 
 ## Day 21: 11-10-19
   - Finished Portfolio website
-  - Earned Responsive Web Design certification !!!!
+  - Earned **Responsive Web Design certification !!!!**
   - Finished basic Javascript in freeCodeCamp
   - CS50 Web Lecture 2 Flask
+  - Worked on UglyTodoList with JS (Watch and Code)
+  - Started reading YDKJS Up & Going on cell phone
 
 ## Day 22: 11-11-19
 
