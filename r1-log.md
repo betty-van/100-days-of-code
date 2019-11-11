@@ -157,6 +157,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Started reading  YDKJS Scope & Closure
 
 ## Day 23: 11-12-19
+  - Working on Project 1
+  - Continuing freeCodeCamp JS Regular Expressions
 
 ## Day 24: 11-13-19
 
