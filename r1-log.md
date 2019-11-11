@@ -150,6 +150,10 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Worked through all freeCodeCamp responsive web design lessons/challenges
 
 ## Day 22: 11-11-19
+  - CS50 Web Lecture 3 SQL
+  - Finished ES6 part of JS certification in freeCodeCamp, took notes too
+  - Starting Project 1 in CS50 Web, set up PostgreSQL in Heroku
+  - Read YDKJS Up & Going Chapter 1
 
 ## Day 23: 11-12-19
 
