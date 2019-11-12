@@ -155,10 +155,11 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Starting Project 1 in CS50 Web, set up PostgreSQL in Heroku
   - Skimmed YDKJS Up & Going book
   - Started reading  YDKJS Scope & Closure
+  - Finished JS Regular Expressions module on freeCodeCamp
 
 ## Day 23: 11-12-19
   - Working on Project 1
-  - Continuing freeCodeCamp JS Regular Expressions
+  - Continuing freeCodeCamp JS Debugging module
 
 ## Day 24: 11-13-19
 
