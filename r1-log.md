@@ -159,7 +159,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 
 ## Day 23: 11-12-19
   - Working on Project 1
-  - Continuing freeCodeCamp JS Debugging module
+  - Completed fCC JS debugging and basic data structures module
+  - completed import.py of project 1, learned about environment variables and more databases
 
 ## Day 24: 11-13-19
 
