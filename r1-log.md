@@ -163,6 +163,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - completed import.py of project 1, learned about environment variables and more databases
 
 ## Day 24: 11-13-19
+  - Got registration page to insert into database and to check if already in DB
+  - solved 7 fCC basic algorithm problems
 
 ## Day 25: 11-14-19
 
