@@ -166,6 +166,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Got registration page to insert into database and to check if already in DB
   - solved 7 fCC basic algorithm problems
   - Login/logout, registration, search for books, and results page complete
+  - Book details page for all 5000 books with book_id url's complete
 
 ## Day 25: 11-14-19
 
