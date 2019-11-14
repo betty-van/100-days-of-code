@@ -165,6 +165,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 ## Day 24: 11-13-19
   - Got registration page to insert into database and to check if already in DB
   - solved 7 fCC basic algorithm problems
+  - Login/logout, registration, search for books, and results page complete
 
 ## Day 25: 11-14-19
 
