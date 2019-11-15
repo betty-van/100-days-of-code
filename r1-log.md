@@ -173,6 +173,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Adding a review form
   - Completed OOP in freeCodeCamp
   - Solved 4 basic algorithm problems in fCC
+  - Finished review submission part of Project 1
 
 ## Day 26: 11-15-19
 
