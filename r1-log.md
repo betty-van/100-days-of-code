@@ -169,6 +169,10 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Book details page for all 5000 books with book_id url's complete
 
 ## Day 25: 11-14-19
+  - Fixing up search results for Project 1
+  - Adding a review form
+  - Completed OOP in freeCodeCamp
+  - Solved 4 basic algorithm problems in fCC
 
 ## Day 26: 11-15-19
 
