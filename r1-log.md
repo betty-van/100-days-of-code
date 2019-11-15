@@ -176,6 +176,9 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Finished review submission part of Project 1
 
 ## Day 26: 11-15-19
+  - Finished Project 1
+  - Continued more basic algorithm problems in fCC, 1 more to go
+  - CS50 Web ORM/APIs lecture 
 
 ## Day 27: 11-16-19
 
