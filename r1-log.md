@@ -181,6 +181,11 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - CS50 Web ORM/APIs lecture 
 
 ## Day 27: 11-16-19
+  - Fixed API pages of Project 1
+  - jsonify
+  - CS50 Web Javascript lecture
+  - LeetCode Weekly Contest
+  - Watch and Code using Chrome debugger, step over, step into
 
 ## Day 28: 11-17-19
 
