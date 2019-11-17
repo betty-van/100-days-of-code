@@ -184,7 +184,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Fixed API pages of Project 1
   - jsonify
   - CS50 Web Javascript lecture
-  - LeetCode Weekly Contest
+  - LeetCode Weekly Contest: submitted Shift 2D Grid and got accepted!!!! Woooo!!!! 3 minutes left on the clock...
   - Watch and Code using Chrome debugger, step over, step into
   - Started CS50 Front Ends lecture
   - Finished Basic algorithm problems in freeCodeCamp, onto functional programming
