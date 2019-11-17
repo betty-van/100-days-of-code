@@ -191,6 +191,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - William Fiset's course: Big-O notation and static & dynamic arrays
 
 ## Day 28: 11-17-19
+- Finished Front Ends Lecture
+- Started Project 2
 
 ## Day 29: 11-18-19
 
