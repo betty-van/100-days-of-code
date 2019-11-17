@@ -186,6 +186,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - CS50 Web Javascript lecture
   - LeetCode Weekly Contest
   - Watch and Code using Chrome debugger, step over, step into
+  - Started CS50 Front Ends lecture
+  - Finished Basic algorithm problems in freeCodeCamp, onto functional programming
 
 ## Day 28: 11-17-19
 
