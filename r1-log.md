@@ -195,6 +195,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 - Started Project 2
 
 ## Day 29: 11-18-19
+ - Took a break today from programming
+ - completed three fCC functional programming JS lessons
 
 ## Day 30: 11-19-19
 
