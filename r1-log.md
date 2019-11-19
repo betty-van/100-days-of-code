@@ -199,6 +199,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
  - completed three fCC functional programming JS lessons
 
 ## Day 30: 11-19-19
+  - more fCC functional programming - .map .forEach .filter .reduce
+  - Learned that to store my displayName in Project2, I need a JS global variable
 
 ## Day 31: 11-20-19
 
