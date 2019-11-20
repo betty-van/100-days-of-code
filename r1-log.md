@@ -205,6 +205,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 ## Day 31: 11-20-19
   - Constantly banging my head against the wall with Project 2
   - Back to the drawing board with planning
+  - reading docs on Flask SocketIO
+  - finished functional programming section of freeCodeCamp
 
 ## Day 32: 11-21-19
 
