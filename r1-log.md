@@ -203,6 +203,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Learned that to store my displayName in Project2, I need a JS global variable
 
 ## Day 31: 11-20-19
+  - Constantly banging my head against the wall with Project 2
+  - Back to the drawing board with planning
 
 ## Day 32: 11-21-19
 
