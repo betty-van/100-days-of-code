@@ -207,7 +207,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Back to the drawing board with planning
   - reading docs on Flask SocketIO
   - finished functional programming section of freeCodeCamp
-  - Managed to create create form to work! Also can prompt user for displayName and store in local storage, success!
+  - Managed to create channel form to work! Also can prompt user for displayName and store in local storage, success!
+  - No success at switching channels yet, only works for the first channel right now
 
 ## Day 32: 11-21-19
 
