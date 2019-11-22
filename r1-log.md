@@ -215,6 +215,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Feeling noticeably more confident with this and not needing to Google/StackOverflow as often
   - No work today on freeCodeCamp at all
   - Still constantly banging my head against the wall, but moving forward slowly. Feeling better about myself actually. Project looks ugly but more functional than it was before. 
+  - Project2: able to send messages, no storage of them yet, appended to ul
 
 ## Day 33: 11-22-19
 
