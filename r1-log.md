@@ -218,6 +218,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Project2: able to send messages, no storage of them yet, appended to ul
 
 ## Day 33: 11-22-19
+  - Project2: no storage, messages now include timestamp, username, and message data, and channel data too
+  - Server-side remembers messages, but client'side does not...something with AJAX maybe?
 
 ## Day 34: 11-23-19
 
