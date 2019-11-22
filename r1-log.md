@@ -211,6 +211,10 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - No success at switching channels yet, only works for the first channel right now
 
 ## Day 32: 11-21-19
+  - Got channel switching to work server side and client side, now working on message view...
+  - Feeling noticeably more confident with this and not needing to Google/StackOverflow as often
+  - No work today on freeCodeCamp at all
+  - Still constantly banging my head against the wall, but moving forward slowly. Feeling better about myself actually. Project looks ugly but more functional than it was before. 
 
 ## Day 33: 11-22-19
 
