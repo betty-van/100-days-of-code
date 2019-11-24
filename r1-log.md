@@ -222,6 +222,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Server-side remembers messages, but client'side does not...something with AJAX maybe?
 
 ## Day 34: 11-23-19
+  - Made client store messages successfully, then figured out this was stupid to do so
+  - Got server side to store messages, parse, and display properly, when refreshing or opening a new tab all the messages will go to undefined, not sure why
 
 ## Day 35: 11- 24-19
 
