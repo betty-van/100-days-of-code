@@ -226,6 +226,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Got server side to store messages, parse, and display properly, when refreshing or opening a new tab all the messages will go to undefined, not sure why
 
 ## Day 35: 11- 24-19
+  - Fixed the undefined messages, fixed three bugs: not clearing the forms after submission, adding new channels when added without refreshing the page, and no longer double sending messages because not doing a request for EVERY new message, only when changing to new channel or refreshing
+  - now to a personal touch, project function is nearly complete
 
 ## Day 36: 11-25-19
 
