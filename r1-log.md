@@ -232,8 +232,10 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 ## Day 36: 11-25-19
   - Finished personal touch: to delete one's own messages from client side and server-side
   - Finished Full Stack Open 2019 Part 0
+  - Made a goal book until June 2020
 
 ## Day 37: 11-26-19
+  - Using CSS to style the chat app, using Grid, Google Fonts, flexbox, not done yet.
 
 ## Day 38: 11-27-19
 
