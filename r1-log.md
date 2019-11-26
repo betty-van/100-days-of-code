@@ -228,9 +228,10 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 ## Day 35: 11- 24-19
   - Fixed the undefined messages, fixed three bugs: not clearing the forms after submission, adding new channels when added without refreshing the page, and no longer double sending messages because not doing a request for EVERY new message, only when changing to new channel or refreshing
   - now to a personal touch (delete one's own messages), project function is nearly complete, then make pretty
-  - Watching first half of Django lecture
   
 ## Day 36: 11-25-19
+  - Finished personal touch: to delete one's own messages from client side and server-side
+  - Finished Full Stack Open 2019 Part 0
 
 ## Day 37: 11-26-19
 
