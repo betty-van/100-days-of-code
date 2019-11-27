@@ -236,19 +236,30 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 
 ## Day 37: 11-26-19
   - Using CSS to style the chat app, using Grid, Google Fonts, flexbox, not done yet.
-  - Finished app with a decent UI, not responsive, but will worry about that in the future. 
+  - Finished app with a decent UI, not responsive, but will worry about that in the future.
+  - Started part1 of Full Stack Open 2019
 
 ## Day 38: 11-27-19
+  - Properly established github repository for Full Stack Open Part 1
+  - Finished Part1.a exercises involving React components, props, and transfer of data between components using JSX
+  - Reading Part1.b along with accompanying recommended resources, using node in command prompt
 
 ## Day 39: 11-28-19
+  - Vacation: no code
+  - Plan on reading YDKJS/Eloquent JS
 
 ## Day 40: 11-29-19
-
+  - Vacation: no code
+  - Plan on reading YDKJS/Eloquent JS
 ## Day 41: 11-30-19
-
+   - Vacation: no code
+   - Plan on reading YDKJS/Eloquent JS
 ## Day 42: 12-1-19
-
+  - Vacation: no code
+  - Plan on reading YDKJS/Eloquent JS
+  - Returned late at night
 ## Day 43: 12-2-19
+  - Back at it with more gusto than ever
 
 ## Day 44: 12-3-19
 
