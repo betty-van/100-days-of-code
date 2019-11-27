@@ -236,6 +236,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 
 ## Day 37: 11-26-19
   - Using CSS to style the chat app, using Grid, Google Fonts, flexbox, not done yet.
+  - Finished app with a decent UI, not responsive, but will worry about that in the future. 
 
 ## Day 38: 11-27-19
 
