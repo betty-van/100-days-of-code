@@ -244,6 +244,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Finished Part1.a exercises involving React components, props, and transfer of data between components using JSX
   - Reading Part1.b along with accompanying recommended resources, using node in command prompt
   - completed courseinfo step 3: transferring information using objects
+  - completed all exercises in Part1.b
 
 ## Day 39: 11-28-19
   - Vacation: no code
