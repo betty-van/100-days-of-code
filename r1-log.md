@@ -262,6 +262,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Returned late at night
 ## Day 43: 12-2-19
   - Back at it with more gusto than ever
+  - Finished Full Stack Open 1c
+  - Deployed QuikChat to Heroku
 
 ## Day 44: 12-3-19
 
