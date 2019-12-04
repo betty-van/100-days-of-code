@@ -266,6 +266,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Deployed QuikChat to Heroku
 
 ## Day 44: 12-3-19
+  - Stomach pain all evening, no programming today (zero carb diet)
+  - Still plan on finishing Full Stack Open Part 1 by the end of this week
 
 ## Day 45: 12-4-19
 
