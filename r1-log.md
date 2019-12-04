@@ -270,6 +270,9 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Still plan on finishing Full Stack Open Part 1 by the end of this week
 
 ## Day 45: 12-4-19
+  - Finished following along Part 1d
+  - Starting unicafe exercise
+  - Attended first meetup: Python project night from 7-10pm
 
 ## Day 46: 12-5-19
 
