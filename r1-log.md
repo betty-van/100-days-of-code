@@ -271,7 +271,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 
 ## Day 45: 12-4-19
   - Finished following along Part 1d
-  - Starting unicafe exercise
+  - Finished unicafe exercises of Part 1d, except step 6
   - Attended first meetup: Python project night from 7-10pm
 
 ## Day 46: 12-5-19
