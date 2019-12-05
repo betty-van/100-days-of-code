@@ -271,10 +271,12 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 
 ## Day 45: 12-4-19
   - Finished following along Part 1d
-  - Finished unicafe exercises of Part 1d, except step 6
-  - Attended first meetup: Python project night from 7-10pm
+  - Finished unicafe exercises of Part 1d
+  - Attempted to create-react-app for anecdotes but kept saying "no template provided"
 
 ## Day 46: 12-5-19
+  - Fixed create-react-app by globally uninstalling it and using yarn instead of npx
+  - Working on anecdotes of Part 1d
 
 ## Day 47: 12-6-19
 
