@@ -276,7 +276,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 
 ## Day 46: 12-5-19
   - Fixed create-react-app by globally uninstalling it and using yarn instead of npx
-  - Working on anecdotes of Part 1d
+  - Finished anecdotes of Part 1d, moving onto Part 2a
+  - Watched Fun Fun Functional on higher order functions, map, and reduce
 
 ## Day 47: 12-6-19
 
