@@ -281,10 +281,13 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Added Quikchat to my portfolio website
 
 ## Day 47: 12-6-19
+  - No programming, prepping for backpacking
 
 ## Day 48: 12-7-19
+  - Out in wilderness backpacking, no programming
 
 ## Day 49: 12-8-19
+  - Back from trip, finished Full Stack Open part 2a exercises
 
 ## Day 50: 12-9-19
 
