@@ -289,7 +289,9 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 ## Day 49: 12-8-19
   - Back from trip, finished Full Stack Open part 2a exercises
 
-## Day 50: 12-9-19
+## Day 50: 12-9-19 [halfway there!]
+  - Watched video on the JS event loop https://www.youtube.com/watch?v=8aGhZQkoFbQ
+  - Finished Full Stack Open Part b exercises: Phonebook
 
 ## Day 51: 12-10-19
 
