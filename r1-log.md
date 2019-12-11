@@ -294,8 +294,11 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Finished Full Stack Open Part b exercises: Phonebook
 
 ## Day 51: 12-10-19
+  - Finished Full Stack Open Part c exercises: Phonebook and Country Data
+  - Watching videos on promises, async/await, and callbacks to get a more clear understanding of async functions
 
 ## Day 52: 12-11-19
+  - Working on FSO Part d exercises: Phonebook
 
 ## Day 53: 12-12-19
 
