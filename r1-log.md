@@ -303,6 +303,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Finished FSO Part 2 completely! Onwards!
 
 ## Day 53: 12-12-19
+  - Finished YDKJS Scopes and Closures book
 
 ## Day 54: 12-13-19
 
