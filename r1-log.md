@@ -298,7 +298,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Watching videos on promises, async/await, and callbacks to get a more clear understanding of async functions
 
 ## Day 52: 12-11-19
-  - Working on FSO Part d exercises: Phonebook
+  - Working on FSO Part d exercises: Phonebook (finished all parts without hard refresh, meaning I made the state change using filter woo!)
+  - Working through FSO Part e follow-along notes
 
 ## Day 53: 12-12-19
 
