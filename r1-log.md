@@ -300,6 +300,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 ## Day 52: 12-11-19
   - Working on FSO Part d exercises: Phonebook (finished all parts without hard refresh, meaning I made the state change using filter woo!)
   - Working through FSO Part e follow-along notes
+  - Finished FSO Part 2 completely! Onwards!
 
 ## Day 53: 12-12-19
 
