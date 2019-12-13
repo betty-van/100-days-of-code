@@ -304,6 +304,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 
 ## Day 53: 12-12-19
   - Finished YDKJS Scopes and Closures book
+  - Follow along FSO Part 3
+  - Starting and completing some Part 3a exercises using Node and Express
 
 ## Day 54: 12-13-19
 
