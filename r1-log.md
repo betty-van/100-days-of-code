@@ -308,8 +308,10 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Starting and completing some Part 3a exercises using Node and Express
 
 ## Day 54: 12-13-19
+  - Took a break
 
 ## Day 55: 12-14-19
+  - Finished phonebook backend up to step 6
 
 ## Day 56: 12-15-19
 
