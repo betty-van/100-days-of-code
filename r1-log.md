@@ -311,7 +311,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Took a break
 
 ## Day 55: 12-14-19
-  - Finished phonebook backend up to step 6
+  - Finished phonebook backend up to step 8
+  - Deploying to Heroku is a pain in the butt, so is combining front end with back end
 
 ## Day 56: 12-15-19
 
