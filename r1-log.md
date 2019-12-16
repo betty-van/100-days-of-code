@@ -318,6 +318,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 ## Day 56: 12-15-19
   - Attended first meetup today: Intro to Kubernetes
   - Made Project 1 more pretty as well as update some UI/UX things
+  - Deployed Book Review App to Heroku and added to my portfolio
 
 ## Day 57: 12-16-19
 
