@@ -316,6 +316,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Looked back at Project 1 of CS50 Web, made prettier, used Sessions to log in and out, made secure and fixed bugs
 
 ## Day 56: 12-15-19
+  - Attended first meetup today: Intro to Kubernetes
+  - Made Project 1 more pretty as well as update some UI/UX things
 
 ## Day 57: 12-16-19
 
