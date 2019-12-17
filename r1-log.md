@@ -321,6 +321,10 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Deployed Book Review App to Heroku and added to my portfolio
 
 ## Day 57: 12-16-19
+  - More progress on FSO Part 3
+  - Used MongoDB for the first time, adding phone numbers or people for Phonebook App
+  - Phonebook app deployed on Heroku
+  - More comfortable with using Github for resetting commits
 
 ## Day 58: 12-17-19
 
