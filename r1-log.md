@@ -327,6 +327,8 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - More comfortable with using Github for resetting commits
 
 ## Day 58: 12-17-19
+  - Finished follow-along of FSO Part 3
+  - Finishing up phonebook, adding MongoDB to backend
 
 ## Day 59: 12-18-19
 
