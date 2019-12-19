@@ -338,8 +338,11 @@ Goal: Get a software engineering or web developer job within one year (summer 20
 
 ## Day 60: 12-19-19
   - Finished phonebook database step 8
+  - Phonebook app here: https://calm-retreat-03130.herokuapp.com/
   - Onto Linting!
   - Almost done with Part 3.
+  - Reading over some of TOP (The Odin Project) DOM manipulation things for review and filling in knowledge gaps
+  - Goal to complete Part 4 by end of the month is on track :) Things are going well. Sometimes, I feel like I can't do this myself but other times I know exactly where to look or Google or StackOverflow if I encounter something I've seen before or a problem I've had before. It's still an upward progression of knowledge and application. Excited to go back to CS50 Web Programming when Jake is finished with his Project 2: Flack. Javascript, React, and Node are a LOT of fun to work with. But I would like to finish what I started, and that's CS50 Web... only project3 and then a final project to go. Then I can finished FSO, then probably do more personal big projects and start doing things like data structures/algorithms, LeetCode, etc. Seems like I still have a lot more time of this contract year in my job, so I might work through TOP/fCC and see where I am at the end. My goal is to apply to jobs during the summer(when I'm not working). We have several meetups planned this month and next month in FI and programming, super excited. At the beginning, I felt like I didn't have enough time, but now that I think about it, there's still 7 months until my contract year ends. Plenty of time to keep learning and working on projects. See you tonight. 
 
 ## Day 61: 12-20-19
 
