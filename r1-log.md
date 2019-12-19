@@ -331,6 +331,10 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Finishing up phonebook, adding MongoDB to backend
 
 ## Day 59: 12-18-19
+  - Following along FSO PArt 3d
+  - Heroku app working for notes finally, had a LOT of trouble due to detached HEAD problems
+  - Working at https://secure-brushlands-56747.herokuapp.com/
+  - Phonebook database step 7 tomorrow
 
 ## Day 60: 12-19-19
 
