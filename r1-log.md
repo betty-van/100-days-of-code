@@ -337,6 +337,9 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Phonebook database step 7 tomorrow
 
 ## Day 60: 12-19-19
+  - Finished phonebook database step 8
+  - Onto Linting!
+  - Almost done with Part 3.
 
 ## Day 61: 12-20-19
 
