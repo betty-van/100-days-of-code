@@ -349,6 +349,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Did not program, took a break
 
 ## Day 62: 12-21-19
+  - Writing Python script to categorize expenses from Personal Capital spreadsheet and list total spending for each category
 
 ## Day 63: 12-22-19
 
