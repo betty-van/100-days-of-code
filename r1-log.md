@@ -346,6 +346,7 @@ Goal: Get a software engineering or web developer job within one year (summer 20
   - Finished linting and Part 3...Windows sucks! Sometimes...when it comes to the command prompt...
 
 ## Day 61: 12-20-19
+  - Did not program, took a break
 
 ## Day 62: 12-21-19
 
